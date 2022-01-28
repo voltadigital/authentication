@@ -1,1 +1,1 @@
-# [VLTA.net]https://vlta.net Authentication Module
+# [https://vlta.net]VLTA Authentication Module
