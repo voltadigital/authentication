@@ -1,4 +1,4 @@
-# [VLTA](https://vlta.net) Authentication Module
+# [VLTA Authentication Module](https://vlta.net) 
 
 Not touched at all.
 
