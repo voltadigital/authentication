@@ -1,6 +1,6 @@
 # [VLTA Authentication Module](https://vlta.net) 
 
-Not touched at all.
+WIP - Built with Python (FastAPI and Uvicorn), MongoDB, and HTML.
 
 - [] Frontend
 - [] Backend
