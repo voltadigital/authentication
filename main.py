@@ -22,6 +22,6 @@ async def oauth(url0: str, url1: str, code):
       headers = {
         'Content-Type': 'application/x-www-form-urlencoded'
       }
-      async with session.post('https://discord.com/api/v8/oauth2/token', headers=headers, json=data)
-      r.raise_for_status()
-      return r.json()
+      async with session.post('https://discord.com/api/v8/oauth2/token', headers=headers, json=data):
+          data = await r.json
+      return data
